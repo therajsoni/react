@@ -12,6 +12,8 @@ aliases:
   - &attach_workspace
     at: build
 
+"here"
+
 commands:
   setup_node_modules:
     description: "Restore node_modules"
